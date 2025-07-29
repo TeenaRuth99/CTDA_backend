@@ -1,0 +1,29 @@
+[
+  {
+    "username": "admin",
+    "docname": "dn_study",
+    "file_path": "uploads\\admin_dn_study_dn_study_country_mon_enrollment_Final_Anonymized_Shuffled_Query_2025-06-11.xlsx",
+    "instruction": "dn_study_dataset",
+    "file_hash": "5100789becee5697b92bc01c92dffd03",
+    "is_structured": true,
+    "timestamp": "2025-07-21T12:01:57.060005"
+  },
+  {
+    "username": "admin",
+    "docname": "cliniclaTrial",
+    "file_path": "uploads\\admin_cliniclaTrial_Clinical trial.pdf",
+    "instruction": "clinical trial dataset",
+    "file_hash": "285f92998ec462003f481c5bd957c444",
+    "is_structured": false,
+    "timestamp": "2025-07-21T12:18:34.746037"
+  },
+  {
+    "username": "admin",
+    "docname": "test",
+    "file_path": "uploads\\admin_test_Planned_Certification_Reminder_Dump (3) (5).xlsx",
+    "instruction": "test",
+    "file_hash": "762e839a45e690d876d2ec50acd547a6",
+    "is_structured": true,
+    "timestamp": "2025-07-25T15:59:03.008352"
+  }
+]
