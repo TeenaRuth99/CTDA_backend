@@ -24,3 +24,5 @@ unstructured
 openpyxl
 streamlit
 Requests
+langchain-groq
+plotly
